@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10a8618e-cebe-415b-b17e-7bc0fe20147f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../m411_ab06_insertionSort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m411_ab06_insertionSort/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m411_ab06_insertionSort/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m411_ab06_insertionSort/src/ch/sbb/cca/Algorithms/SelectionSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m411_ab06_insertionSort/src/ch/sbb/cca/ArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m411_ab06_insertionSort/src/ch/sbb/cca/Stopwatch/Stopwatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m411_ab08_heapSort/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m411_ab08_heapSort/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m411_ab08_heapSort/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m411_ab08_heapSort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m411_ab08_heapSort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m411_ab08_heapSort/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m411_ab08_heapSort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m411_ab08_heapSort/m411_ab08_heapSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m411_ab08_heapSort/src/ch/sbb/cca/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch/sbb/cca/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch/sbb/cca/Service/PalindromeFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M411.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m411_ab06_insertionSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../m411_ab06_insertionSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m411_ab06_insertionSort/src/ch/sbb/cca/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../m411_ab06_insertionSort/src/ch/sbb/cca/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ch/sbb/cca/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ch/sbb/cca/model/Rover.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Y48Cz2Qq63HEZ0WvA9aqEuR05a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ch.sbb.cca.Main" />
+      <module name="recursion" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10a8618e-cebe-415b-b17e-7bc0fe20147f" name="Default Changelist" comment="" />
+      <created>1582190382743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582190382743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="756" y="357" width="407" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582190562054">
+      <screen x="0" y="0" width="1920" height="943" />
+    </state>
+    <state x="756" y="357" width="407" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.943@0.0.1920.943" timestamp="1582190562054" />
+    <state x="614" y="67" key="CommitChangelistDialog2" timestamp="1582193838563">
+      <screen x="0" y="0" width="1920" height="943" />
+    </state>
+    <state x="614" y="67" key="CommitChangelistDialog2/0.0.1920.943@0.0.1920.943" timestamp="1582193838563" />
+    <state width="1877" height="250" key="GridCell.Tab.0.bottom" timestamp="1582193816392">
+      <screen x="0" y="0" width="1920" height="943" />
+    </state>
+    <state width="1877" height="250" key="GridCell.Tab.0.bottom/0.0.1920.943@0.0.1920.943" timestamp="1582193816392" />
+    <state width="1877" height="250" key="GridCell.Tab.0.center" timestamp="1582193816392">
+      <screen x="0" y="0" width="1920" height="943" />
+    </state>
+    <state width="1877" height="250" key="GridCell.Tab.0.center/0.0.1920.943@0.0.1920.943" timestamp="1582193816392" />
+    <state width="1877" height="250" key="GridCell.Tab.0.left" timestamp="1582193816392">
+      <screen x="0" y="0" width="1920" height="943" />
+    </state>
+    <state width="1877" height="250" key="GridCell.Tab.0.left/0.0.1920.943@0.0.1920.943" timestamp="1582193816392" />
+    <state width="1877" height="250" key="GridCell.Tab.0.right" timestamp="1582193816392">
+      <screen x="0" y="0" width="1920" height="943" />
+    </state>
+    <state width="1877" height="250" key="GridCell.Tab.0.right/0.0.1920.943@0.0.1920.943" timestamp="1582193816392" />
+    <state width="1877" height="309" key="GridCell.Tab.1.bottom" timestamp="1582193580329">
+      <screen x="0" y="0" width="1920" height="943" />
+    </state>
+    <state width="1877" height="309" key="GridCell.Tab.1.bottom/0.0.1920.943@0.0.1920.943" timestamp="1582193580329" />
+    <state width="1877" height="309" key="GridCell.Tab.1.center" timestamp="1582193580329">
+      <screen x="0" y="0" width="1920" height="943" />
+    </state>
+    <state width="1877" height="309" key="GridCell.Tab.1.center/0.0.1920.943@0.0.1920.943" timestamp="1582193580329" />
+    <state width="1877" height="309" key="GridCell.Tab.1.left" timestamp="1582193580329">
+      <screen x="0" y="0" width="1920" height="943" />
+    </state>
+    <state width="1877" height="309" key="GridCell.Tab.1.left/0.0.1920.943@0.0.1920.943" timestamp="1582193580329" />
+    <state width="1877" height="309" key="GridCell.Tab.1.right" timestamp="1582193580329">
+      <screen x="0" y="0" width="1920" height="943" />
+    </state>
+    <state width="1877" height="309" key="GridCell.Tab.1.right/0.0.1920.943@0.0.1920.943" timestamp="1582193580329" />
+    <state x="623" y="200" width="672" height="678" key="search.everywhere.popup" timestamp="1582191532840">
+      <screen x="0" y="0" width="1920" height="943" />
+    </state>
+    <state x="623" y="200" width="672" height="678" key="search.everywhere.popup/0.0.1920.943@0.0.1920.943" timestamp="1582191532840" />
+  </component>
+</project>
